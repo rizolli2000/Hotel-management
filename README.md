@@ -2,7 +2,7 @@
 Hotel Management System
 
 This is a Python-based hotel management system that provides functionalities for guest bookings, billing, booking status checks, and booking cancellations. The system is integrated with a Microsoft SQL Server database for data storage.
-Configure the SQL SYSTEM REQUIREMENT ACCORDING YPUR SYSTEM THATS WHY IN THE MAION FILE IT WILL BE CHANGED ACCORDINGLY
+Configure the SQL SYSTEM REQUIREMENT ACCORDING YPUR SYSTEM THATS WHY IN THE MAIN FILE IT HAS BEEN CHANGED ACCORDING TO THE GENERAL REQUIREMENTS TO EACH SYSTEM HOST AND USER NAME 
 conn = pyodbc.connect(
     'DRIVER={SQL Server};'
     'SERVER=your_server_name;'
